@@ -4,3 +4,15 @@
     margin: 1rem;
     padding: 0;    
 }
+
+.myNavbar{
+    display: inline-block;
+}
+
+.myNavbar a{
+    padding: 0 1rem;
+}
+
+.myNavbar a:hover{
+    background-color: brown;
+}
