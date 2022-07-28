@@ -12,10 +12,12 @@ Ivan's Tasks:
 # Page Content
 
 ## home
-- turnky service, free consultation, software development, contact icon, MIS, phasal procces (plan/design, execution, maintenece)
+- turnky service, free consultation, software development, contact icon, MIS, phasal procces (plan/design, execution, maintenece), systems engeiniger
 
 ## service
-
+turnkey service options include 
+- Consultation phase: to address both shortterm and longterm objectives
+- 
 ## contact
 
 ## FAQs
