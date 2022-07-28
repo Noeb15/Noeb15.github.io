@@ -10,9 +10,9 @@ Ivan's Tasks:
 
 
 competition (https://www.goodfirms.co/directory/languages/top-software-development-companies)
-https://selleo.com/saas-development-company
-https://www.roweb.ro/
-https://www.p2energysolutions.com/
+- https://selleo.com/saas-development-company
+- https://www.roweb.ro/
+- https://www.p2energysolutions.com/
 
 
 # Page Content
