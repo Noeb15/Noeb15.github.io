@@ -6,12 +6,12 @@ Ivan's Tasks:
 - To view index.html go to :https://noeb15.github.io/
 
 
-## pages
+# Page Content
 
-# home
+## home
 
-# service
+## service
 
-# contact
+## contact
 
-# FAQs
+## FAQs
