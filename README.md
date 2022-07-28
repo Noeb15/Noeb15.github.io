@@ -17,7 +17,11 @@ Ivan's Tasks:
 ## service
 turnkey service options include 
 - Consultation phase: to address both shortterm and longterm objectives
-- 
+- Planning phase: understand given internal operations & processes to coprehensivly compliment & improve with autimative bussiness internal tools/features maximizing effecinecy in an already operating bussiness model
+- execution phase: Create a draw schedule with crafted milestones in the overall scope of a contractual project
+    - troubleshooting/workshop
+    - contracted maintence period
+
 ## contact
 
 ## FAQs
