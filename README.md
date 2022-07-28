@@ -12,7 +12,8 @@ Ivan's Tasks:
 # Page Content
 
 ## home
-- 
+- turnky service, free consultation, software development, contact icon, MIS, phasal procces (plan/design, execution, maintenece)
+
 ## service
 
 ## contact
