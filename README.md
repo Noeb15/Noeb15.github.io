@@ -9,6 +9,12 @@ Ivan's Tasks:
 - To view index.html go to :https://noeb15.github.io/
 
 
+competition (https://www.goodfirms.co/directory/languages/top-software-development-companies)
+https://selleo.com/saas-development-company
+https://www.roweb.ro/
+https://www.p2energysolutions.com/
+
+
 # Page Content
 
 ## home
