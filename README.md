@@ -34,7 +34,7 @@ competition (https://www.goodfirms.co/directory/languages/top-software-developme
 - 
 
 - Specialize in the complemeting of an already existant operational bussineess model with software as a service.
-- Levels
+- 
 
 
 ## service
