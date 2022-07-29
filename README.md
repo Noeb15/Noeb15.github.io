@@ -31,7 +31,9 @@ turnkey service options include
 ## contact
 
 ## FAQs
-
+- what does our turnkey approach entail?
+- What is Systems engenering?
+- How can my bussness prodecures improve with the system & Software engennig and MIS?
 
 # Hosting
 - AWS: https://www.coursera.org/projects/hosting-static-web-site-aws
