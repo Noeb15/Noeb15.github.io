@@ -34,14 +34,14 @@ competition (https://www.goodfirms.co/directory/languages/top-software-developme
 
 - Specialize in the complementing of an already existent operational bushiness model with software as a service. Such options included are centralized computing systems, comprehensive client portal (with distinction client accessibility versus overall management), API specifications, data mining automation (bots), and unique autonomous systematic solutions within small businesses.
 
-
 ## service
-turnkey service options include 
-- Consultation phase: to address both shortterm and longterm objectives
-- Planning phase: understand given internal operations & processes to coprehensivly compliment & improve with autimative bussiness internal tools/features maximizing effecinecy in an already operating bussiness model
-- execution phase: Create a draw schedule with crafted milestones in the overall scope of a contractual project
-    - troubleshooting/workshop
-    - contracted maintence period
+turnkey service phases include:
+- Consultation phase: address both shortterm and longterm objectives from creafting a niche tool/application through crafinting high level finite state machines systems
+- Planning phase: complement and maximize effeciency of current operational bussiness model with the implementation of streamline internal bussiness tools/features custom to anygiven specification, level, and/or degree
+- execution phase: Create a draw schedule with crafted milestones in the overall scope of a clients project
+    - troubleshooting
+    - trainings/workshop as needed
+    - maintence servicing
 
 ## contact
 
