@@ -31,9 +31,9 @@ competition (https://www.goodfirms.co/directory/languages/top-software-developme
 - algramtic proccesses
 - Managment Information Systems
 - Centralized-Computing-Systems
-- 
 
 - Specialize in the complementing of an already existent operational business model with software as a service. Such options included are centralized computing systems, comprehensive client portal (with distinction client accessibility versus overall management), API specifications, data mining automation (bots), and unique automative systematic features within small businesses.
+- Specialize in the complemeting of an already existant operational bussineess model with software as a service. Such options included are centralized computing systems, comprehensive client portal (with distinction client accesibility versus overall managment), API specifications, data mining automation (bots), and unique autonomous systematic solutions within small bussnesses.
 
 
 ## service
