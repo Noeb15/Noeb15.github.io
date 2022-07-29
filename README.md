@@ -20,6 +20,20 @@ competition (https://www.goodfirms.co/directory/languages/top-software-developme
 ## home
 - turnky service, free consultation, software development, contact icon, MIS, phasal procces (plan/design, execution, maintenece), systems engeiniger, SaaS options
 
+
+- Enterprise Resource Planning (ERP) systems integration
+- Complex workflows
+- Software as a Service application industry (SaaS) (cloud, scaiblity, leverage-efficiency)
+- architecture and security as consideration
+- both internal & global buissness systems & operations
+- Application Programming Interfece (API specifications)
+- Finite-state-machine modeling/proofs
+- algramtic proccesses
+- Managment Information System
+
+- 
+
+
 ## service
 turnkey service options include 
 - Consultation phase: to address both shortterm and longterm objectives
