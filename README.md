@@ -27,6 +27,8 @@ competition (https://www.goodfirms.co/directory/languages/top-software-developme
 - architecture and security as consideration
 - both internal & global buissness systems & operations
 - Application Programming Interfece (API specifications)
+- Finite-state-machine modeling/proofs
+- algramtic proccesses
 - 
 
 
