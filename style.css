@@ -16,21 +16,23 @@ body{
 }
 
 .NavigationBar{
-    display: block;
+    
     background-color: black;
     text-decoration: none;
     padding: 0.5rem;
 }
 
-.NavigationBar a{
+.NavigationBar >a{
+    display:inline-block;
     padding: 0.5rem;
+    background-color: gray;
 }
 
 .NavigationBar a:hover{
 
 }
 
-.active{
+.NavigationBar > .active{
     background-color: green;
 }
 
