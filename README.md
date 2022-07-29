@@ -21,6 +21,16 @@ competition (https://www.goodfirms.co/directory/languages/top-software-developme
 
 Specialize in the complementing of an already existent operational bushiness model/procedures with software as a service. Such servicing include centralized computing system, comprehensive client portal (with distinction client accessibility versus overall management), API specifications, data mining automation (bots), and unique autonomous systematic solutions within small businesses.
 
+
+## service
+turnkey service phases include:
+- Consultation phase: address both short-term and long-term objectives from crafting a niche tool/application through crafting high level finite state machines systems
+- Planning phase: complement and maximize efficiency of current operational business model with the implementation of streamline internal business tools/features custom to any given specification, level, and/or degree
+- execution phase: Create a draw schedule with crafted milestones in the overall scope of a clients project
+    - troubleshooting
+    - trainings/workshop as needed
+    - maintence servicing
+
 Comphrehensive service options and considerations through the system enginnering of any given working project for clientele:
 - Enterprise Resource Planning (ERP) systems integration
 - Complex workflows
@@ -33,17 +43,6 @@ Comphrehensive service options and considerations through the system enginnering
 - algramtic proccesses
 - Managment Information Systems
 - Centralized-Computing-Systems
-
-
-
-## service
-turnkey service phases include:
-- Consultation phase: address both short-term and long-term objectives from crafting a niche tool/application through crafting high level finite state machines systems
-- Planning phase: complement and maximize efficiency of current operational business model with the implementation of streamline internal business tools/features custom to any given specification, level, and/or degree
-- execution phase: Create a draw schedule with crafted milestones in the overall scope of a clients project
-    - troubleshooting
-    - trainings/workshop as needed
-    - maintence servicing
 
 ## contact
 
