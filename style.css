@@ -12,6 +12,14 @@ body{
 .NavigationBar > ul{
     list-style-type: none;
 }
+
+.NavigationBar > li{
+    float:left;
+}
+
+.NavigationBar > li a{
+    display: block;
+}
 /*
 .header{
     text-align: center;
