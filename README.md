@@ -38,8 +38,8 @@ Comphrehensive service options and considerations through the system enginnering
 
 ## service
 turnkey service phases include:
-- Consultation phase: address both shortterm and longterm objectives from creafting a niche tool/application through crafinting high level finite state machines systems
-- Planning phase: complement and maximize effeciency of current operational bussiness model with the implementation of streamline internal bussiness tools/features custom to anygiven specification, level, and/or degree
+- Consultation phase: address both short-term and long-term objectives from crafting a niche tool/application through crafting high level finite state machines systems
+- Planning phase: complement and maximize efficiency of current operational business model with the implementation of streamline internal business tools/features custom to any given specification, level, and/or degree
 - execution phase: Create a draw schedule with crafted milestones in the overall scope of a clients project
     - troubleshooting
     - trainings/workshop as needed
