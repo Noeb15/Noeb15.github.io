@@ -1,10 +1,18 @@
 *{
+
+    box-sizing: border-box;
+    background-color: beige;
+    margin: 1rem;
+    padding: 1rem;    
+}
+/*
+*{
+    
     box-sizing: border-box;
     background-color: beige;
     margin: 1rem;
     padding: 0;    
 }
-
 .myNavbar{
     display: inline-block;
 }
@@ -16,3 +24,4 @@
 .myNavbar a:hover{
     background-color: brown;
 }
+*/
