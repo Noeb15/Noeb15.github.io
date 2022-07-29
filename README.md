@@ -18,21 +18,23 @@ competition (https://www.goodfirms.co/directory/languages/top-software-developme
 # Page Content
 
 ## home
-- turnky service, free consultation, software development, contact icon, MIS, phasal procces (plan/design, execution, maintenece), systems engeiniger, SaaS options
 
+Specialize in the complementing of an already existent operational bushiness model/procedures with software as a service. Such servicing include centralized computing system, comprehensive client portal (with distinction client accessibility versus overall management), API specifications, data mining automation (bots), and unique autonomous systematic solutions within small businesses.
 
+Comphrehensive service options and considerations through the system enginnering of any given working project for clientele:
 - Enterprise Resource Planning (ERP) systems integration
 - Complex workflows
 - Software as a Service application industry (SaaS) (cloud, scaiblity, leverage-efficiency)
 - architecture and security as consideration
 - both internal & global buissness systems & operations
+- Computer Archetecture
 - Application Programming Interfece (API specifications)
 - Finite-state-machine modeling/proofs
 - algramtic proccesses
 - Managment Information Systems
 - Centralized-Computing-Systems
 
-- Specialize in the complementing of an already existent operational bushiness model with software as a service. Such options included are centralized computing systems, comprehensive client portal (with distinction client accessibility versus overall management), API specifications, data mining automation (bots), and unique autonomous systematic solutions within small businesses.
+
 
 ## service
 turnkey service phases include:
