@@ -32,16 +32,15 @@ turnkey service phases include:
     - maintence servicing
 
 Comphrehensive service options and considerations through the system enginnering of any given working project for clientele:
+- Software as a Service application industry (SaaS) (cloud, scaiblity, leverage-efficiency)
+- Computer Archetecture and Security
+- Application Programming Interfece (API specifications)
+- Finite-state-machine modeling
+- Centralized-Computing-Systems
+-  both internal & global buissness systems & operations
 - Enterprise Resource Planning (ERP) systems integration
 - Managment Information Systems
 - Complex workflows
-- Software as a Service application industry (SaaS) (cloud, scaiblity, leverage-efficiency)
-- both internal & global buissness systems & operations
-- Computer Archetecture and Security
-- Application Programming Interfece (API specifications)
-- Finite-state-machine modeling/proofs
-- Centralized-Computing-Systems
-- 
 
 ## contact
 
