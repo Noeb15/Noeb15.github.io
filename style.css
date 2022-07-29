@@ -14,6 +14,13 @@ body{
     text-align: center;
 }
 
+.mid-left{
+    text-align: left;
+}
+
+.mid-right{
+    text-align: right;
+}
 
 /*
 *{
