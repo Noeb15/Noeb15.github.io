@@ -31,3 +31,9 @@ turnkey service options include
 ## contact
 
 ## FAQs
+
+
+## Hosting
+- AWS: https://www.coursera.org/projects/hosting-static-web-site-aws
+- https://aws.amazon.com/getting-started/hands-on/host-static-website/faq/
+- https://initialcommit.com/blog/host-static-site-aws-s3
