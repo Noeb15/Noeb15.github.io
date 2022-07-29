@@ -29,6 +29,8 @@ competition (https://www.goodfirms.co/directory/languages/top-software-developme
 - Application Programming Interfece (API specifications)
 - Finite-state-machine modeling/proofs
 - algramtic proccesses
+- Managment Information System
+
 - 
 
 
