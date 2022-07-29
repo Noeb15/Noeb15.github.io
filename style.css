@@ -38,6 +38,10 @@ body{
     background-color: green;
 }
 
+.NavigationBar > a:hover{
+    background-color: whitesmoke;
+}
+
 .mid{
     display: flex;
 }
