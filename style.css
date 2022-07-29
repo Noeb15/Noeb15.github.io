@@ -15,11 +15,13 @@ body{
 }
 
 .mid-left{
-    text-align: left;
+    float: left;
+    width: 50%;
 }
 
 .mid-right{
-    text-align: right;
+    float: left;
+  width: 50%;
 }
 
 /*
