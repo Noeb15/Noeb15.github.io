@@ -33,16 +33,15 @@ turnkey service phases include:
 
 Comphrehensive service options and considerations through the system enginnering of any given working project for clientele:
 - Enterprise Resource Planning (ERP) systems integration
+- Managment Information Systems
 - Complex workflows
 - Software as a Service application industry (SaaS) (cloud, scaiblity, leverage-efficiency)
-- architecture and security as consideration
 - both internal & global buissness systems & operations
-- Computer Archetecture
+- Computer Archetecture and Security
 - Application Programming Interfece (API specifications)
 - Finite-state-machine modeling/proofs
-- algramtic proccesses
-- Managment Information Systems
 - Centralized-Computing-Systems
+- 
 
 ## contact
 
