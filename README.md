@@ -18,7 +18,7 @@ competition (https://www.goodfirms.co/directory/languages/top-software-developme
 # Page Content
 
 ## home
-- turnky service, free consultation, software development, contact icon, MIS, phasal procces (plan/design, execution, maintenece), systems engeiniger
+- turnky service, free consultation, software development, contact icon, MIS, phasal procces (plan/design, execution, maintenece), systems engeiniger, SaaS options
 
 ## service
 turnkey service options include 
@@ -29,6 +29,7 @@ turnkey service options include
     - contracted maintence period
 
 ## contact
+
 
 ## FAQs
 - what does our turnkey approach entail?
