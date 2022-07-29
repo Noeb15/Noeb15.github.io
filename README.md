@@ -32,7 +32,7 @@ competition (https://www.goodfirms.co/directory/languages/top-software-developme
 - Managment Information Systems
 - Centralized-Computing-Systems
 
-- Specialize in the complemeting of an already existant operational bussineess model with software as a service. Such options included are centralized computing systems, comprehensive client portal (with distinction client accesibility versus overall managment), API specifications, data mining automation (bots), and unique autonomous systematic solutions within small bussnesses.
+- Specialize in the complementing of an already existent operational bushiness model with software as a service. Such options included are centralized computing systems, comprehensive client portal (with distinction client accessibility versus overall management), API specifications, data mining automation (bots), and unique autonomous systematic solutions within small businesses.
 
 
 ## service
