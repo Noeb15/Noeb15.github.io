@@ -13,17 +13,20 @@ body{
     list-style-type: none;
     background-color: #333;
     margin: 0;
-  padding: 0;
+    padding: 0;
     overflow: hidden;
 }
 
-.NavigationBar > li{
-    float:left;
+.NavigationBar > ul> li{
+    
+    display: inline-block;
+    margin: 0;
+    padding: 0;
 }
 
-.NavigationBar > li{
-    display: block;
-}
+
+
+
 /*
 .header{
     text-align: center;
