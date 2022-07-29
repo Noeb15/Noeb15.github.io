@@ -33,7 +33,7 @@ competition (https://www.goodfirms.co/directory/languages/top-software-developme
 - Centralized-Computing-Systems
 - 
 
-- Specialize in the complemeting of an already existant operational bussineess model with software as a service. Such options included are centralized computing systems, comprehensive client portal (with distinction client accesibility versus overall managment), API specifications, data mining automation (bots), and unique atomative systematic features within small bussnesses.
+- Specialize in the complemeting of an already existant operational bussineess model with software as a service. Such options included are centralized computing systems, comprehensive client portal (with distinction client accesibility versus overall managment), API specifications, data mining automation (bots), and unique atomative systematic solutions within small bussnesses.
 
 
 ## service
