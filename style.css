@@ -17,7 +17,7 @@ body{
     list-style-type: none;
     background-color: gray;
     margin: 0;
-    padding: 1rem;
+    padding: 0rem;
     overflow: hidden;
 }
 
@@ -26,9 +26,10 @@ body{
     display: inline-block;
     margin: 0;
     padding: 1rem;
+    background-color: orange;
 }
 
-.NavigationBar > ul> li > a{
+.NavigationBar ul>li> a{
     
 }
 
