@@ -15,9 +15,9 @@ body{
 }
 .NavigationBar > ul{
     list-style-type: none;
-    background-color: gray;
+    background-color: black;
     margin: 0;
-    padding: 0rem;
+    padding: 0.5rem;
     overflow: hidden;
 }
 
@@ -25,12 +25,12 @@ body{
     
     display: inline-block;
     margin: 0;
-    padding: 1rem;
-    background-color: orange;
+    padding: 16 0;
+    background-color: gray;
 }
 
 .NavigationBar ul>li> a{
-    
+    background-color: gray;
 }
 
 
